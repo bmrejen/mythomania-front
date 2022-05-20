@@ -1,0 +1,21 @@
+{
+  "name": "mythomania",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5050"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bootstrap": "^5.1.3",
+    "bootstrap-vue-3": "^0.1.6",
+    "vue": "^3.2.31",
+    "vue-inline-svg": "^3.1.0",
+    "vue-router": "^4.0.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.1.0",
+    "vite": "^2.7.13"
+  }
+}
